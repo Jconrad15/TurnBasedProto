@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a322d5d8db840ef4abbc92a77347ec3e, type: 3}
+  m_Name: GrassTerrain
+  m_EditorClassIdentifier: 
+  _terrainType: Grass
+  _terrainDescription: This is grass.
+  _magicRange: 2
+  _magicType: Grass
+  _magicDescription: Summons a vine to hit.
+  _magicDamage: 1
+  _particlePrefab: {fileID: 3115325600913305078, guid: 437a40ddb3184894bbee5acbec155c23, type: 3}

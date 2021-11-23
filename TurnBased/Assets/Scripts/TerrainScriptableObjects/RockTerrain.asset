@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a322d5d8db840ef4abbc92a77347ec3e, type: 3}
+  m_Name: RockTerrain
+  m_EditorClassIdentifier: 
+  _terrainType: Rock
+  _terrainDescription: This is rock.
+  _magicRange: 1
+  _magicType: Rock
+  _magicDescription: Summons a rock to hit.
+  _magicDamage: 2
+  _particlePrefab: {fileID: 7536256185301323910, guid: 46d3bd414231bdd4f9d121cd32b54fb3, type: 3}
